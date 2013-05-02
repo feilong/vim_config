@@ -59,5 +59,5 @@ filetype off                   " required!
  " see :h vundle for more details or wiki for FAQ
  " NOTE: comments after Bundle command are not allowed..
  
- let g:pandoc_bibfiles = ['/home/feilong/Dropbox/Music/2013/bib/scholar.bibtex']
+ let g:pandoc_bibfiles = ['/home/feilong/Dropbox/Music/2013/bib/scholar.bibtex','/home/feilong/Dropbox/zotero.bib']
  let maplocalleader = ","
